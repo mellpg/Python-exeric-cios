@@ -1,0 +1,14 @@
+Rodar no terminal python basta: python nome do arquivo.py
+
+Windows
+
+Abra o Prompt de Comando ou PowerShell.
+
+Digite:
+
+python -m idlelib
+
+
+ou, se estiver usando Python 3 específico:
+
+python3 -m idlelib
