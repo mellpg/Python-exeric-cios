@@ -1,2 +1,2 @@
-# Python-exeric-cios
+# Python-exercícios
 Aprendizados de Python
